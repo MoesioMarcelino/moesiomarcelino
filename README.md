@@ -18,7 +18,6 @@
 <code><img height="40" style="margin-right: 20px; border-radius: 8px" src="https://user-images.githubusercontent.com/37598129/96896651-24b41980-1464-11eb-8a48-572336189034.png"></code>
 <code><img height="40" style="margin-right: 20px; border-radius: 8px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" style="margin-right: 20px; border-radius: 8px" src="https://user-images.githubusercontent.com/37598129/96896547-02ba9700-1464-11eb-8502-6f16de68a828.png"></code>
-<code><img height="40" style="margin-right: 20px; border-radius: 8px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="40" style="margin-right: 20px; border-radius: 8px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="40" style="margin-right: 20px; border-radius: 8px" src="https://user-images.githubusercontent.com/37598129/96896417-d99a0680-1463-11eb-9c40-dcd46edb4a1b.png"></code>
 </p>
@@ -30,8 +29,6 @@
 
 - 🔭 I’m currently working on Brisanet
 - 🌱 I’m currently learning Node.JS, ReactJS and React Native.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Talk to me about music and in english.
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Harry Potter.
