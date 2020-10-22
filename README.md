@@ -1,7 +1,7 @@
 ![you!](https://user-images.githubusercontent.com/37598129/96891755-5aa2cf00-145f-11eb-884a-6eb28a59b907.png)
 
 <br> 
-<h1 align="center">Hi folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://moesiomarcelino.github.io" target="_blank">Moésio Marcelino</a></h1>
+<h1 align="center">Hi folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://moesiomarcelino.github.io" target="_blank" rel="noopener noreferrer">Moésio Marcelino</a></h1>
 
 <br>
 <p align="center">
