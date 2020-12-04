@@ -27,8 +27,8 @@
 
 ## 👨‍🏫️ About me
 
-- 🔭 I’m currently working on Brisanet
-- 🌱 I’m currently learning Node.JS, ReactJS and React Native.
+- 🔭 I’m currently working on Brisanet with Angular2+
+- 🌱 I’m currently learning Node.JS, ReactJS, React Native and Angular.
 - 💬 Talk to me about music and in english.
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Harry Potter.
