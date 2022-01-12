@@ -27,7 +27,7 @@
 
 ## 👨‍🏫️ About me
 
-- 🔭 I’m currently working on [Dextra](https://www.dextra.com.br)
+- 🔭 I’m currently working on [CI&T](https://ciandt.com/br) and [Salespond](https://salespond.com)
 - 🌱 I’m currently learning Node.JS, ReactJS, React Native and Angular.
 - 💬 Talk to me about music and in english.
 - 😄 Pronouns: He/His/Him
