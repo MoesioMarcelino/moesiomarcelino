@@ -27,8 +27,8 @@
 
 ## 👨‍🏫️ About me
 
-- 🔭 I’m currently working on [CI&T](https://ciandt.com/br)
-- 🌱 I’m currently learning Node.JS and ReactJS.
-- 💬 Talk to me about music and in english.
+- 🔭 I’m currently working on [Grupo Boticário](https://www.grupoboticario.com.br/)
+- 🌱 I’m currently learning React Native.
+- 💬 Talk to me about music, english or cats.
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: Harry Potter.
+- ⚡ Fun fact: Harry Potter and I'm a cat father.
